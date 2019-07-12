@@ -1,0 +1,108 @@
+<html>
+  
+   
+    
+    
+    
+    
+   <style>
+    
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+    </style>
+    
+    
+<body>
+
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="news1.html">News</a></li>
+  <li><a href="contact1.html">Contact</a></li>
+  <li><a href="about1.html">About</a></li>
+</ul>  
+    <h1>News</h1>
+</body> 
+    
+    
+    
+   <body bgcolor="#C5BBF0">
+    
+   <style>
+       h1 {
+            color: crimson;
+   
+           
+           
+       </style>  
+  
+    
+   <center> <h1>Top 10 Best Famous Designer Brands</h1> 
+
+    
+    <img src="Logo.jpeg">
+
+    </center>
+       
+       <marquee>  <h2>Below is the list of what we think are the overall best designer brands judged by price, luxority and more</h2> </marquee>
+      
+      
+      <hr>
+       
+       
+       
+</body>
+    
+ 
+             
+           
+        
+
+           
+
+  <center><img src="Supreme.png" width 400></center>    
+
+<center><h2> #10 Supreme</h2> </center>
+    <h3> You may think Supreme would be higher up but it isn't. Supreme is  jsut plain fabric with a Supreme logo that was also stolen from an artist ironed on. </h3>
+
+         <center> <img src="dolce-gabbana-logo.jpg" </center>
+      <h2> #9 Dolce & Gabbana </h2> 
+      <h3> Dolce & Gabanna is a really expensive company and their clothes are nice... But recently in the past few years, Stefano Dolce (the owner of Dolce & Gabbana)
+         was body shamming women. He also called Selena Gomez ugly.</h3>
+             <center> <img src="PumA.png" </center>
+                 <center> <h2> #8 Puma</h2>  </center>
+                    <center> <h3> Puma is a fair company with a wide range of outer wear from shoes to anything you can wear outside. Puma has fair quality clothing which is why we placed it 8th.</h3></center>
+                 
+   
+                 <center><img src="Nike.png" </center>
+                       
+                     <center><h2> #7 Nike</h2></center>
+                     <h3> Overall Nike is a really good company and sells really good items from shoes, shirts, sweaters, pants, and more. Since the 1970's Nike has been accused of using sweatshops in North Korea, China, and Taiwan.</h3>
+                    
+                
+                 
+                 
+                 
+    </html> 
+             
